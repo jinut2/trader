@@ -1,0 +1,4 @@
+tmp/
+influx2.env
+output/
+go.sum
